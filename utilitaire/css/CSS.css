@@ -1,0 +1,31 @@
+#menu{
+    font-family: 'TrueCrime';
+    text-align: center;
+    font-size: 16px;
+    background: #ffffff;
+}
+.navbar-brand, .navbar-nav > li > a {
+    margin-top: 25px;
+}
+
+h1,h2{
+    font-family: 'TrueCrime';
+}
+body{
+    font-family: 'OldNews';
+    color: white;
+    margin-top: 0;
+    background-color: #202020;
+}
+label{
+    color: red;
+}
+#année1{
+    max-width: 150px;
+}
+#logo{
+    background-image: url('../logo-disko-black.svg');
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+}
