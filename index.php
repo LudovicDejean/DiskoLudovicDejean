@@ -18,9 +18,6 @@ if (isset($_REQUEST['uc']) && $_REQUEST['uc'] == 'valider' && (isset($_REQUEST['
         <link rel="stylesheet" href="utilitaire/css/bootstrap.css">
         <link rel="stylesheet" href="utilitaire/css/CSS.css">
         <link rel="stylesheet" href="utilitaire/css/bootstrap-theme.css">
-        <script type="text/javascript"src="utilitaire/js/bootstrap.js"></script>
-        <script type="text/javascript" src="utilitaire/js/DataTables-1.10.13/media/js/dataTables.bootstrap.js"></script>
-        <script  type="text/javascript"src="utilitaire/js/jquery.js"></script>
         <script type="text/javascript" src="utilitaire/fonctionsJS.js"></script>
     </head>
     <?php
